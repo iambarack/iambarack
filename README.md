@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Flux Interpreter (Programming Language)](https://github.com/iambarack/fluxts)
 
-- 👨‍💻 All of my projects are available at [https://iambarack.github.io/](https://iambarack.github.io/)
+- 👨‍💻 All of my projects are available at [iambarack.github.io](https://iambarack.github.io/)
 
 - 💬 Ask me about **Field Programmable Gate Arrays (FPGAs)**
 
