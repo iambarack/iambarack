@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A passionate hardware developer from Canada</h3>
 
-- 🔭 I’m currently working on **SFML 2d physics engine**
+- 🔭 I’m currently working on **a physics engine**
 
-- 🌱 I’m currently learning **Spanish and French**
-
-- 👯 I’m looking to collaborate on [CPU Arch in Node](https://github.com/iambarack/nodecpu)
-
-- 🤝 I’m looking for help with [Flux Interpreter (Programming Language)](https://github.com/iambarack/fluxts)
+- 🌱 I’m currently learning **French**
 
 - 👨‍💻 All of my projects are available at [iambarack.github.io](https://iambarack.github.io/)
 
